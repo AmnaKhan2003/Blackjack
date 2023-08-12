@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-top: 100px;
+
+}
+
+h1 {
+    color: goldenrod;
+}
+
+p {
+    margin-top: 20px;
+}
+
+body {
+    background-image: url(kk.avif);
+    background-size: contain;
+
+}
+
+#startGame {
+    background-color: rgb(230, 178, 46);
+    color: #016f32;
+    font-weight: bold;
+    width: 170px;
+    height: 25px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+
+}
+
+#newCard {
+    background-color: rgb(230, 178, 46);
+    color: #016f32;
+    font-weight: bold;
+    width: 170px;
+    height: 25px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#message-el {
+    font-style: italic;
+}
